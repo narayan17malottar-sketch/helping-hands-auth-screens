@@ -60,15 +60,18 @@ To design a **simple, friendly, and trustworthy** authentication flow for users 
 
 ---
 
-## 📸 Final UI Screens
+## 📸 Authentication Screens
 
-![Splash Screen](Screens/Splash.png)
-![Welcome Screen](Screens/Welcome.png)
-![Role Selection](Screens/Role-Selection.png)
-![Login Screen](Screens/Login.png)
-![Sign Up Screen](Screens/Sign-Up.png)
+<p align="center">
+  <img src="Screens/Splash.png" width="220"/>
+  <img src="Screens/Welcome.png" width="220"/>
+  <img src="Screens/Role-Selection.png" width="220"/>
+</p>
 
----
+<p align="center">
+  <img src="Screens/Login.png" width="220"/>
+  <img src="Screens/Sign-in.png" width="220"/>
+</p>
 
 ## 📘 Learnings
 - Importance of clear CTAs in onboarding
